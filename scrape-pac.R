@@ -11,7 +11,7 @@ scrape_pac <- function(url) {
   # read the page
   page <- ___(___)
   
-  # exract the table
+  # extract the table
   pac <-  page %>%
     # select node .DataTable (identified using the SelectorGadget)
     html_node(".DataTable") %>%
