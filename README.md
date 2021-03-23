@@ -1,3 +1,3 @@
-# lab-12-inference-smoking
+# lab-08b
 
-Materials for lab 12
+Materials for lab 08b
