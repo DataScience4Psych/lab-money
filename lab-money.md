@@ -1,4 +1,4 @@
-Lab 08b
+Lab Money
 ================
 Insert your name here
 Insert date here
