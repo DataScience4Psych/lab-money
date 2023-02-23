@@ -1,3 +1,3 @@
-# lab-08b
+# lab-money
 
-Materials for lab 08b
+Materials for lab money
